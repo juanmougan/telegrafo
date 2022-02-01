@@ -1,0 +1,12 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  author: Carlos
+  body: Nice post!
+  post_id: 1
+
+two:
+  author: Mariana
+  body: I think you made a typo on line 2
+  post_id: 1
